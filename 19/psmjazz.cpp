@@ -1,3 +1,5 @@
+// 시간복잡도: 리스트의 길이를 sz라 하면 리스트의 길이를 일단 재야 하므로 O(sz)
+// 공간복잡도: 추가적인 메모리는 사용하지 않음 O(1)
 /**
  * Definition for singly-linked list.
  * struct ListNode {
